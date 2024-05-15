@@ -1,5 +1,5 @@
 # Student-Management-System-Using-Java-Full-Stack
-Thanks to Kodnest's Java Internship programme. I gained konwledge in Java programming, which explored the language's fundamental ideas and real-world full stack development applications. The application helps in creating, updation, reading and deletion of students data (CRUD operations). I thank my trainers to guiding us built such a wonderful project.
+Thanks to Kodnest's Java Internship programme. I gained konwledge in Java programming, which explored the language's fundamental ideas and real-world full stack development applications. The application helps in creating, updation, reading and deletion of students data (CRUD operations). I thank my trainers in guiding me built such a wonderful, interactive and responsive project.
 
 ## What I learnt?
 1. Java Programming Basics
